@@ -1,5 +1,4 @@
-# Inteligencia-Artificial---KAIO
-
+Exercícios_Python_[Kaio Braga][Eng software][NOITE] .ipynb
 <div align="center">
 
 # 🧠 Inteligência Artificial
