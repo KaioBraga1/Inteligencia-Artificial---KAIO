@@ -28,7 +28,6 @@ A ideia é simples: centralizar o aprendizado, manter tudo versionado e ter um h
 | `Exercícios_Python...` | Exercícios práticos iniciais em Python |
 | `README.md` | Este arquivo |
 
-> 🔄 Repositório em construção — novos notebooks entram aqui conforme a disciplina avança.
 
 ## 🛠️ Tecnologias
 
